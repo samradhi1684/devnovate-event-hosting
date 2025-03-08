@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "devnovate-event-hosting",
+  "private_key_id": "4e1cb75339e4c31aea40bbffbb211de6b0f5d933",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJIlsvQjkLbz7d\nGiQkYX7BF19YPQ9NvO2NBT1jj+4L7/uH4SNhwRydo5PXxA8FusxraMTQs8hnk98c\nuGfsVP44B8T3t/frBCCgE0fLd5/aXl5eqXRI9yRERHFnpE99vHhp4lmLYFmsPto4\nU5DkcSOxiY9rTSQRfEZHNoAlE9CyICWR4QwK/Dn7IiN4eAbPzLAh2I9fV+lqSAff\nbVG2L2EnR/NNUw1JZj/3Yl9KSLaEy+hD6eCAAivoZlPwZnmgqFWpvA5RqWNom9pc\nHq30qMRyPMgXlsNiHwjoUXGGol2NIvJ/ihsdP0qowfFicWvm8sCro//V2NClRDzZ\nwY19bfY5AgMBAAECggEAC7MIpZ//FElGhBMSRp54LRr4WWLbL3JS9Ai5vdSVrBKW\naYc2PmhT9d8ZtADWvzEoKlhCrdbDTF5nft1tcsECijejefr0vAd2WVv9vq9TjZ6/\nHlenfgYIJpi/lZ/TCDU3YNtWdOW9bug3W8mP7EXLeyHNWphhsHWvhdK8/fXK23gq\nJluczYf1zDhvq3g8riSHlTKwfTex7YulELK3NK1u21VzVumbO5UU+oh1mrMYJAa3\nY6rbt8qNoVf1xrJiQ7toFBZVllTSgh/CjRhuG0WVyiPN3Mk2iP1ps+6Vk54HeDgn\n5d/OlEhVTENUgjUpAaZIGsQSlHLUAC5Go0E3EaadnQKBgQD+3Qi5AjdOj6Gbgnyz\nPf1qlXECcmzP7x8wgByZof7xCUsUdMkZDQl5tIXLa68oRSSedUF/yuHMp94cvfUX\nkf7NbExxlhm+9YBRu21hg6LNsJSgfRzogeAGAP+93a0h0JJldhO1Hy402wH6kYv/\n0k26+3yzXiaiaXQlEm/95Lz3vQKBgQDKB/tfvq9xCOoIfvvkjch2cyzWxis3kp01\nKieQrtOOC3GOp8QEN5h84wH+/Nhpgy6EE9gdpLHI0iVSb0H3++Rjrh9EOPwJGJTg\nW8VCDXEvCLBxTML0Mk6q+YVu0A1Ajhc0kz61LzaUhivDVtj+z18uTWsYp/mxWOw3\nCYEHZJmyLQKBgQChKGGYo2cXnUlCjXuO1/cDy6WfN33I6lrdj1UGbOJJxmecctCq\nr4y7UcR8wgYLP9WNAXY+earYf5m6sP9nPSFTAlVASfrTvme6xvq+e7+Zszv4U8TQ\n3TcsdLtCcwdEZ5/62nRRxnqwX4Bb0mclh/Uw9E+BGFrzvhz8SDFa6aX4PQKBgB6k\nX0gCT/HA/F4VhHcB2im9Bkv8+okPP7DUl/Ol0Ih2y95rK5vIIuSuOZtHFjvKnb+C\nkwDL/fsLhIWgQk0uc1F7E1rxmah3hf0RbjW6fDQ6CSjmD5uiFbRw7AAGpjvoUTS0\nMIqigpC8WN7jyT28jh8jtt6ie4ieiBVA58ULSRRxAoGBAOQ6s+QCpPTI1OV40VP0\nJR7vljgqczggIs/t7hiRH4x+/JEFkQeZlzBC6qPAbPjRB4kz9S4a0opySrDaMelQ\nENBs5o/COLR3HnlULFIjG9whsJJME5rVVEQG6hBUbkUILk4IrM1ccr97TDv1qWxk\nnHjIsP80l+thOMG4eAybQ5iT\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@devnovate-event-hosting.iam.gserviceaccount.com",
+  "client_id": "108127122916646048370",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40devnovate-event-hosting.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
